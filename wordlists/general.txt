@@ -1,0 +1,5 @@
+admin
+administrator
+root
+guest
+user
